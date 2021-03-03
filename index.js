@@ -57,11 +57,7 @@ import HfMemberCreateRecommendedUsersSpreadSheetCommandService from "./lib/comma
 
 import HfMemberRegisterSearchUserQueryCommandService from "./lib/commands_services/hf_member__register_search_user_query.js";
 
-import UserApplyCommandService from "./lib/commands_services/user__apply.js";
-
 import HfMemberAdvanceApplicationToNextInterviewCommandService from "./lib/commands_services/hf_member__advance_application_to_next_interview.js";
-
-import HfMemberCreateRecommendedUsersSpreadSheetCommandService from "./lib/commands_services/hf_member__create_recommended_users_spread_sheet.js";
 
 import HfMemberRegisterOwnSmtpSettingCommandService from "./lib/commands_services/hf_member__register_own_smtp_setting.js";
 
@@ -77,15 +73,7 @@ import HfMemberSendRecommendRemindMailCommandService from "./lib/commands_servic
 
 import HfMemberAddHfRemarkToResumeCommandService from "./lib/commands_services/hf_member__add_hf_remark_to_resume.js";
 
-import UserSendInquiryCommandService from "./lib/commands_services/user__send_inquiry.js";
-
-import UserUpdateProfileCommandService from "./lib/commands_services/user__update_profile.js";
-
-import AggregatesMailTemplateQueryService from "./lib/queries_services/aggregates__mail_template.js";
-
 import HfMemberSetRecommendMailCommandService from "./lib/commands_services/hf_member__set_recommend_mail.js";
-
-import HfMemberRegisterSearchUserQueryCommandService from "./lib/commands_services/hf_member__register_search_user_query.js";
 
 import HfMemberRegisterArticleCommandService from "./lib/commands_services/hf_member__register_article.js";
 
@@ -129,12 +117,6 @@ import HfMemberGetRecommendMailsQueryService from "./lib/queries_services/hf_mem
 
 import HfMemberGetOwnDataQueryService from "./lib/queries_services/hf_member__get_own_data.js";
 
-import HfMemberGetUserResumePdfQueryService from "./lib/queries_services/hf_member__get_user_resume_pdf.js";
-
-import HfMemberGetFullOwnDataQueryService from "./lib/queries_services/hf_member__get_full_own_data.js";
-
-import HfMemberSearchUsersQueryService from "./lib/queries_services/hf_member__search_users.js";
-
 import HfMemberGetCompanyOptionsQueryService from "./lib/queries_services/hf_member__get_company_options.js";
 
 import HfMemberSearchUsersQueryService from "./lib/queries_services/hf_member__search_users.js";
@@ -142,8 +124,6 @@ import HfMemberSearchUsersQueryService from "./lib/queries_services/hf_member__s
 import HfMemberGetUserResumePdfQueryService from "./lib/queries_services/hf_member__get_user_resume_pdf.js";
 
 import HfMemberGetFullOwnDataQueryService from "./lib/queries_services/hf_member__get_full_own_data.js";
-
-import HfMemberSearchRecruitmentsQueryService from "./lib/queries_services/hf_member__search_recruitments.js";
 
 import HfMemberSearchRecommendedUsersQueryService from "./lib/queries_services/hf_member__search_recommended_users.js";
 
