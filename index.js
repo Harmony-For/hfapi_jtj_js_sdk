@@ -43,8 +43,6 @@ import HfMemberRegisterCompanyCommandService from "./lib/commands_services/hf_me
 
 import HfMemberCreateResumeGoogleDocsCommandService from "./lib/commands_services/hf_member__create_resume_google_docs.js";
 
-import HfMemberRegisterHfMemberCommandService from "./lib/commands_services/hf_member__register_hf_member.js";
-
 import HfMemberSendMailToUserCommandService from "./lib/commands_services/hf_member__send_mail_to_user.js";
 
 import HfMemberAssignHfMemberToApplicationCommandService from "./lib/commands_services/hf_member__assign_hf_member_to_application.js";
